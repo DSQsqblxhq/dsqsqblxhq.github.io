@@ -31,7 +31,7 @@ redirect_from:
 
 # 🎓 学历
 - *2014.09 - 2018.06*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/seu.png" width="23pt"></a> 东南大学 信息科学与工程学院, 江苏南京, 本科 
-- *2022.09 - 2026.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/SCU_logo.svg" width="20pt"></a> 清华大学 数据与信息研究院, 广东深圳, 博士
+- *2022.09 - 2026.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/thu.png" width="20pt"></a> 清华大学 数据与信息研究院, 广东深圳, 博士
  
 <span class='anchor' id='-lwzl'></span>
 
