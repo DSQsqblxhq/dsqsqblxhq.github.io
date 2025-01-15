@@ -44,7 +44,11 @@ My research areas include:
 
 -	`Yuanbo Tang` , Zhiyuan Peng, and Yang Li. “Explainable Trajectory Representation through Dictionary Learning.” In Proceedings of the 31st ACM International Conference on Advances in Geographic Information Systems, 1–4. SIGSPATIAL ’23. New York, NY, USA: Association for Computing Machinery, 2023. https://doi.org/10.1145/3589132.3625607.
 
-[[Website]](https://dx.doi.org/10.3390/s22093587) [[PDF]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[Download]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
+    <div class="link-container" style="text-align: right;">  
+      [[Website]](https://dx.doi.org/10.3390/s22093587)   
+      [[PDF]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)   
+      [[Download]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)  
+    </div> 
 
 </div>
 </div>
