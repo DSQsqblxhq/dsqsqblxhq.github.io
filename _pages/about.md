@@ -30,8 +30,8 @@ My research areas include:
 <span class='anchor' id='-xl'></span>
 
 # 🎓 Education
-- *2014.09 - 2021.06*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/seu.png" width="23pt"></a> School of Information Science and Engineering, Southeast University, Nanjing, Jiangsu, undergraduate & master
-- *2022.09 - 2026.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/thu.png" width="20pt"></a> Institute of Data and Information, Tsinghua University, Shenzhen, Guangdong, Ph.D
+- *2014.09 - 2021.06*, <a href="https://www.hust.edu.cn/"><img class="svg" src="/images/seu.png" width="24pt"></a> School of Information Science and Engineering, Southeast University, Nanjing, Jiangsu, undergraduate & master
+- *2022.09 - 2026.06*, <a href="https://www.scu.edu.cn/"><img class="svg" src="/images/thu.png" width="24pt"></a> Institute of Data and Information, Tsinghua University, Shenzhen, Guangdong, Ph.D
  
 <span class='anchor' id='-lwzl'></span>
 
