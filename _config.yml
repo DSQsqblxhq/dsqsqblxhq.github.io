@@ -6,7 +6,7 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Yuanbo Tang
+title                    : "Yuanbo Tang"
 description              : "Hi~ this is my academic homepage." 
 repository               : "tangyuanbo1/tangyuanbo1.github.io"
 google_scholar_stats_use_cdn : false
