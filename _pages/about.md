@@ -51,7 +51,7 @@ My research areas include:
 
 
 ---
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM SIGSPATIAL 2023</div><img src='images/paper_mobicom.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ACM MobiCom 2024</div><img src='images/paper_mobicom.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 -	Liu, Yiwen, Dongdong Zhang, Xinyu Yang, `Yuanbo Tang`, Yang Chen, Qingmin Liao, and Yang Li. “Predicting Community Case Transfer Path and Processing Time Using Decoder Models.” In Proceedings of the 30th Annual International Conference on Mobile Computing and Networking, 2078–83. ACM MobiCom ’24. New York, NY, USA: Association for Computing Machinery, 2024. https://doi.org/10.1145/3636534.3694738.
