@@ -1,19 +1,19 @@
 # main links links
 main:
   - title: "Introduction"
-    url: "/zh-cn/#about-me"
+    url: "/#about-me"
 
   - title: "Education"
-    url: "/zh-cn/#-xl"
+    url: "/#-xl"
 
   - title: "Papers"
-    url: "/zh-cn/#-lwzl"
+    url: "/#-lwzl"
 
   - title: "Award"
-    url: "/zh-cn/#-ryjx"
+    url: "/#-ryjx"
 
   - title: "Conference"
-    url: "/zh-cn/#-xshy"
+    url: "/#-xshy"
 
   - title: "Work"
-    url: "/zh-cn/#-gzsx"
+    url: "/#-gzsx"
