@@ -45,9 +45,7 @@ redirect_from:
 <div class='paper-box-text' markdown="1">
 
 - Yiwen Liu, Dongdong Zhang, Xinyu Yang, `Yuanbo Tang`, Yang Chen, Qingmin Liao, and Yang Li. “Predicting Community Case Transfer Path and Processing Time Using Decoder Models.” In Proceedings of the 30th Annual International Conference on Mobile Computing and Networking, 2078–83. ACM MobiCom ’24. New York, NY, USA: Association for Computing Machinery, 2024. https://doi.org/10.1145/3636534.3694738.
-
-<!-- https://doi.org/10.1145/3589132.3625607. -->
-<!-- [[Website]](https://dx.doi.org/10.3390/s22093587) [[PDF]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[Download]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) -->
+[[Website]](https://dx.doi.org/10.3390/s22093587) [[PDF]](https://github.com/tangjyan/tangjyan.github.io/blob/main/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf) [[Download]](/pdf/TangJ-2022-Mechanism%20of%20Magnetic%20Flux%20Leakage%20Detection%20Method%20Based%20on%20the%20Slotted.pdf)
 
 </div>
 </div> -->
